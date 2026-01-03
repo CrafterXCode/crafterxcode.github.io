@@ -21,7 +21,7 @@ Senior Software Engineer with **9+ years of experience** in **backend and platfo
 - Built Kafka-based CDC microservices
 - **2× internal hackathon winner** (OpenAI, Stability AI)
 
-📄 [View Resume](resume.html)  
+📄 [View Resume](resume.md)  
 🔗 [LinkedIn](https://linkedin.com/in/ajay-dahiwal) | [GitHub](https://github.com/crafterxcode)
 
 > **Let's Connect...**
