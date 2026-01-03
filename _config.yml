@@ -4,7 +4,7 @@ description: Senior Software Engineer | Backend & Platform Engineering | PHP, Py
 baseurl: ""
 url: "https://ajaydahiwal.github.io"
 
-remote_theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
