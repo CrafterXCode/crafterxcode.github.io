@@ -1,1 +1,23 @@
-theme: jekyll-theme-slate
+title: Ajay Dahiwal
+email: aj****al@gmail.com
+description: Senior Software Engineer | Backend & Platform Engineering | PHP, Python, Node.js, AWS
+baseurl: ""
+url: "https://ajaydahiwal.github.io"
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: Ajay Dahiwal
+  avatar: /assets/images/profile.png
+  bio: Senior Software Engineer with 9+ years of experience building scalable SaaS platforms and backend systems.
+  location: Pune, India
+  links:
+    - label: LinkedIn
+      icon: fab fa-linkedin
+      url: https://linkedin.com/in/ajay-dahiwal
+    - label: GitHub
+      icon: fab fa-github
+      url: https://github.com/crafterxcode
